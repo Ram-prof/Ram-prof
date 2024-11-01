@@ -6,27 +6,27 @@ I’m a passionate Software Developer with a strong interest in AI, Cloud and De
 
 ## 🌱 Currently Learning
 I'm diving deeper into:
--Large Language Model (LLM) Development
--Cloud Infrastructure and Services
--Advanced DevOps Practices
+- Large Language Model (LLM) Development.
+- Cloud Infrastructure and Services.
+- Advanced DevOps Practices.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,django,docker,git,jenkins,kubernetes,linux)](https://skillicons.dev)
 
 ## 🚀 Currently Exploring 
--Advancing in Artificial Intelligence and Machine Learning
--Deep diving into Generative AI and Large Language Models
--Exploring advanced machine learning architectures
--Developing scalable AI solutions
--Implementing cloud-native AI infrastructure
--Researching ethical AI and responsible machine learning practices
+- Advancing in Artificial Intelligence and Machine Learning.
+- Deep diving into Generative AI and Large Language Models.
+- Exploring advanced machine learning architectures.
+- Developing scalable AI solutions.
+- Implementing cloud-native AI infrastructure.
+- Researching ethical AI and responsible machine learning practices.
 
 ## 📬 Get in Touch
 
-Connect with me on LinkedIn : (https://www.linkedin.com/in/ramar-k-26b49a320/)
-Read my articles on Medium : (https://medium.com/@ramarkprof)
-Explore my tech journey on [Personal Website/Blog] :
+- Connect with me on LinkedIn : (https://www.linkedin.com/in/ramar-k-26b49a320/).
+- Read my articles on Medium : (https://medium.com/@ramarkprof).
+- Explore my tech journey on [Personal Website/Blog] : .
 
-I love blending AI with cloud solutions to create scalable, intelligent applications. Let’s connect and innovate together!
+I love blending AI with cloud solutions to create scalable, intelligent applications. Let’s connect and innovate together!.
 
 
